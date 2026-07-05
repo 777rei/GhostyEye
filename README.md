@@ -424,7 +424,7 @@ If GhostyEye helped you, please consider starring the repo — it helps others d
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/ghostyeye&type=Date)](https://star-history.com/#YOUR_USERNAME/ghostyeye&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=777rei/GhostyEye&type=Date)](https://star-history.com/#YOUR_USERNAME/ghostyeye&Date)
 
 </div>
 
